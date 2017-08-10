@@ -31,3 +31,4 @@ if [ "${OS_ARCH}" == "x86_64" ]; then
 	echo -n "" ;
 	echo "[Notice] : see Tester Result : http://${IP}/test10.php";
 fi
+
